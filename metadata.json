@@ -1,0 +1,6 @@
+{
+  "name": "Authenticator",
+  "description": "Offline TOTP Authenticator app with encrypted Keystore storage, QR code scanner, biometric lock, and account transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

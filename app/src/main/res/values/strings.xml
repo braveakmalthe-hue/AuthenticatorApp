@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Authenticator</string>
+    <string name="search_accounts_hint">Search accounts</string>
+    <string name="copied_toast">Copied</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_add_account">Add account</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_toggle_flash">Toggle flash</string>
+    <string name="cd_fingerprint">Unlock with fingerprint</string>
+</resources>
